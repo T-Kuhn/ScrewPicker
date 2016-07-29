@@ -14,7 +14,7 @@ The code can be broken down in to three junks. The first junk has servoHandler.p
 to communicate with the servo motors. The next junk of code processes the image data. It's all about image processing (see ImPro.py, PixelObj.py).
 And lastly, there's screwPicker.py, which is the main python-file. it should be executed to start the robot arm.
 
-```
+```engine='sh'
 $ sudo python screwPicker.py
 ```
 
