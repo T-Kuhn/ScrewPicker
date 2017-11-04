@@ -18,3 +18,4 @@ And lastly, there's screwPicker.py, which is the main python-file. it should be 
 $ sudo python screwPicker.py
 ```
 
+[Blog post](http://electrondust.com/2017/10/28/raspberry-pi-robot-arm-with-simple-computer-vision/) about the project.
